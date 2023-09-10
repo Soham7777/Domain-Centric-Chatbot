@@ -1,0 +1,9 @@
+langchain
+openai
+unstructured
+tiktoken
+streamlit
+sentence_transformers
+pymongo
+python-dotenv
+python-magic-bin
