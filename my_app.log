@@ -1,0 +1,16 @@
+2023-09-10 16:15:21,390 - INFO: Loading files from remote URLs.
+2023-09-10 16:15:37,062 - INFO: Reading document from string ...
+2023-09-10 16:15:37,136 - INFO: Reading document ...
+2023-09-10 16:15:40,056 - INFO: Reading document from string ...
+2023-09-10 16:15:40,096 - INFO: Reading document ...
+2023-09-10 16:15:42,834 - INFO: Files loaded successfully.
+2023-09-10 16:15:42,835 - INFO: Splitting text into documents.
+2023-09-10 16:15:42,840 - WARNING: Created a chunk of size 1545, which is longer than the specified 1200
+2023-09-10 16:15:42,843 - INFO: Text splitting completed.
+2023-09-10 16:15:42,843 - INFO: Initializing Sentence Transformer Embeddings.
+2023-09-10 16:15:49,113 - INFO: Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2023-09-10 16:15:57,204 - INFO: Use pytorch device: cpu
+2023-09-10 16:15:57,205 - INFO: Embeddings model initialized successfully.
+2023-09-10 16:15:57,205 - INFO: Connecting to MongoDB Atlas.
+2023-09-10 16:16:33,275 - INFO: MongoDB Atlas connection established & Vector store completed
+2023-09-10 16:16:33,433 - INFO: QA LLM model initialized with vectorstore 
